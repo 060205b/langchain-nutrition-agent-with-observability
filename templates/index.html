@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nutrition Assistant</title>
+</head>
+<body>
+    <h1>Personalized Nutrition and Recipe Assistant</h1>
+    <form action="/generate" method="post">
+        Age: <input type="number" name="age" required><br>
+        Weight (kg): <input type="number" name="weight" required><br>
+        Dietary Preferences (e.g., Vegan, Gluten-Free): <input type="text" name="preferences"><br>
+        <input type="submit" value="Get Meal Plan">
+    </form>
+
+    {% if meals %}
+    <h2>Recommended Meals:</h2>
+    <ul>
+        {% for meal in meals %}
+        <li><strong>{{ meal["Meal"] }}</strong> - {{ meal["Calories"] }} calories | Diet: {{ meal["Diet"] }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
