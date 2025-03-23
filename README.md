@@ -2,18 +2,19 @@
 
 This project is an **AI-powered backend application** that provides personalized meal plans using large language models, vector similarity search, and nutritional data. Built with **LangChain**, **OpenAI**, and **FAISS**, the app intelligently recommends meals tailored to user input like age, weight, and dietary preferences.
 
+The goal is to demonstrate a real-world **AI orchestration system**, where a user’s input is transformed into meal recommendations using a vector database and a question-answering chain. The frontend is intentionally kept minimal to emphasize the **backend intelligence** and **LLM workflow design**.
+
 > ⚠️ Note: The frontend is intentionally minimal — the core focus is on **AI agent integration**, data handling, and vector search logic rather than UI/UX.
 
 ---
 
 ## 🚀 Features
 
-- 🧠 **AI-generated meal plans** using LangChain + OpenAI
-- 📊 Input-based filtering: age, weight, and dietary preferences
-- 🗃️ **FAISS-powered vector store** with nutritional content
-- 🔍 LangSmith integration for chain tracing and observability
-- ⚡ Built with **FastAPI** for fast backend development
-- 🖥️ Clean Jinja2 HTML interface
+- 🧠 LangChain-based agent for dynamic meal recommendation
+- 📈 LangSmith integrated for full chain observability
+- 🗃️ FAISS-powered vector database built on nutritional data
+- 📊 Personalized filtering by age, weight, and dietary preferences
+- ⚡ FastAPI backend with simple Jinja2 frontend
 
 ---
 
