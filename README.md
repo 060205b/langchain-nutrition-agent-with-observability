@@ -1,7 +1,5 @@
 # 🥗 Personalized Nutrition Assistant using langchain and langsmith
 
-# 🥗 Personalized Nutrition and Recipe Assistant
-
 This project is an **AI-powered backend application** that provides personalized meal plans using large language models, vector similarity search, and nutritional data. Built with **LangChain**, **OpenAI**, and **FAISS**, the app intelligently recommends meals tailored to user input like age, weight, and dietary preferences.
 
 > ⚠️ Note: The frontend is intentionally minimal — the core focus is on **AI agent integration**, data handling, and vector search logic rather than UI/UX.
