@@ -3,3 +3,6 @@ uvicorn
 pandas
 jinja2
 python-multipart
+langchain
+langsmith
+langchain-community
