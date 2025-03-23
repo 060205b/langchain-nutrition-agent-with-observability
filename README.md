@@ -1,8 +1,8 @@
 # 🤖 LangChain-Powered Nutrition Agent with LangSmith Observability
 
-This project is an **AI-powered backend application** that provides personalized meal plans using large language models, vector similarity search, and nutritional data. Built with **LangChain**, **OpenAI**, and **FAISS**, the app intelligently recommends meals tailored to user input like age, weight, and dietary preferences.
+This project is an AI-powered backend application that provides personalized meal suggestions using large language models, vector similarity search, and nutritional data. Built with LangChain, OpenAI, and FAISS, the app intelligently recommends meals based on user input like age, weight, and dietary preferences.
 
-The goal is to demonstrate a real-world **AI orchestration system**, where a user’s input is transformed into meal recommendations using a vector database and a question-answering chain. The frontend is intentionally kept minimal to emphasize the **backend intelligence** and **LLM workflow design**.
+The goal is to demonstrate a real-world AI orchestration system, where a user’s input is transformed into relevant food suggestions by querying a nutrition-based vector database through a question-answering chain. The frontend is intentionally kept minimal to emphasize the backend intelligence and LLM workflow design.**.
 
 > ⚠️ Note: The frontend is intentionally minimal — the core focus is on **AI agent integration**, data handling, and vector search logic rather than UI/UX.
 
