@@ -1,4 +1,4 @@
-# 🥗 Personalized Nutrition and Recipe Assistant
+# 🥗 Personalized Nutrition Assistant using langchain and langsmith
 
 This is an AI-powered full-stack web application that generates **personalized meal plans** based on user inputs like age, weight, and dietary preferences. It uses **LangChain**, **LangSmith**, and **FAISS** to provide intelligent recommendations by querying a vector database built from a nutritional dataset.
 
