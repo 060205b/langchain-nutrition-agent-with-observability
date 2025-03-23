@@ -141,8 +141,7 @@ Replace HTML with a React or Svelte frontend
 Add login/authentication support
 Integrate calorie tracker or macro calculator
 
-📬 Contact
-Made with 💻 by Bhuvaneshwari Balaji
+📬 Contact of Bhuvaneshwari Balaji
 
 🔗 GitHub: https://github.com/060205b
 
