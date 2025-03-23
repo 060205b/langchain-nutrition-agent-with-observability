@@ -144,8 +144,8 @@ Integrate calorie tracker or macro calculator
 📬 Contact
 Made with 💻 by Bhuvaneshwari Balaji
 
-🔗 GitHub: [@060205b](https://github.com/060205b)
+🔗 GitHub: https://github.com/060205b
 
-💼 LinkedIn: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/bhuvaneshwari-balaji-79972726a/)
+💼 LinkedIn: https://www.linkedin.com/in/bhuvaneshwari-balaji-79972726a/
 
 📧 Email: bhuvaneshwaribalaji06@gmail.com
