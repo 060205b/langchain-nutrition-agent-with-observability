@@ -52,6 +52,7 @@ When the form is submitted, the backend fetches personalized meal plans using ve
     ├── generate_index.py                   # FAISS index creation from dummy docs
     ├── your_index.py                       # Optional: FAISS generation from Document objects
     ├── your_index/                         # ✅ Pre-generated FAISS vector index
+    ├── .env
     ├── requirements.txt                    # Dependencies
     └── README.md                           # 📘 This file
 
