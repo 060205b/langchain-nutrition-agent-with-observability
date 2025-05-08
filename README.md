@@ -5,7 +5,7 @@ This project is an AI-powered backend application that provides personalized mea
 The goal is to demonstrate a real-world AI orchestration system, where a user’s input is transformed into relevant food suggestions by querying a nutrition-based vector database through a question-answering chain. The frontend is intentionally kept minimal to emphasize the backend intelligence and LLM workflow design.**.
 
 > ⚠️ Note: The frontend is intentionally minimal — the core focus is on **AI agent integration**, data handling, and vector search logic rather than UI/UX.
-🛠️ Note: This project is currently in progress. While the core functionality is implemented, final touches and full deployment are still underway. Details of the completed features are explained below.
+> 🛠️ Note: This project is currently in progress. While the core functionality is implemented, final touches and full deployment are still underway. Details of the completed features are explained below.
 ---
 
 ## 🚀 Features
