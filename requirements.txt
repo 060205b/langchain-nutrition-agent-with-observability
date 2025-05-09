@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-pandas
-jinja2
-python-multipart
 langchain
-langsmith
 langchain-community
+langchain-openai
+python-dotenv
+pandas
+langsmith
