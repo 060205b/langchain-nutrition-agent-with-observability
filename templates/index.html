@@ -14,11 +14,7 @@
 
     {% if meals %}
     <h2>Recommended Meals:</h2>
-    <ul>
-        {% for meal in meals %}
-        <li><strong>{{ meal["Meal"] }}</strong> - {{ meal["Calories"] }} calories | Diet: {{ meal["Diet"] }}</li>
-        {% endfor %}
-    </ul>
+    <p>{{ meals }}</p>
     {% endif %}
 </body>
 </html>
