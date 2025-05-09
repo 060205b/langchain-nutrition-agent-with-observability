@@ -177,9 +177,3 @@ python generate_index.py
 - 📧 bhuvaneshwaribalaji06@gmail.com
 
 ---
-
-**Feel free to copy and use this README!  
-If you want to add more technical details or usage examples, let me know!**
-
----
-Answer from Perplexity: pplx.ai/share
